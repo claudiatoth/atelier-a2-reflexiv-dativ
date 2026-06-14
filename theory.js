@@ -37,7 +37,7 @@ const theoryHTML = `
                 <h4>📖 Două obiecte → reflexivul la Dativ</h4>
                 <p>De obicei reflexivul e la <strong>Akkusativ</strong> (Ich wasche <strong>mich</strong>). Dar când în propoziție mai apare <strong>un obiect direct (Akkusativ)</strong>, reflexivul trece la <strong>Dativ (mir/dir)</strong> — pentru că „obiectul" e deja luat de lucrul respectiv.</p>
                 <div class="example-box">
-                    <p class="de">Ich wasche <strong>mich</strong>. → Ich wasche <strong>mir</strong> <span style="color:#6b7280;">die Hände</span>.</p>
+                    <p class="de">Ich wasche <strong>mich</strong>. → Ich wasche <strong>mir</strong> <span style="color:#5A5147;">die Hände</span>.</p>
                     <p class="ro">Mă spăl. → Îmi spăl mâinile.</p>
                 </div>
             </div>
@@ -70,7 +70,7 @@ const theoryHTML = `
                 <a href="https://forms.gle/NUZeAFb1xPNufoh96" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
                     Trimite textul Claudiei →
                 </a>
-                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                <p style="color: #5A5147; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
                     ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
                 </p>
             </div>
@@ -92,7 +92,7 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă secțiunea</span>
             </div>
 
-            <div class="theory-box" style="background:#fef3c7; border-left-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8; border-left-color:#D4A574;">
                 <h4>⚡ Regula</h4>
                 <p style="margin:0;">
                 ✅ Doar reflexivul → <strong>Akkusativ</strong>: Ich wasche <strong>mich</strong>.<br>
